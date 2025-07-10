@@ -1,4 +1,4 @@
-# GistNotes: React Native Note-Taking App with GitHub Gist Integration
+# GistMD: Note-Taking App with GitHub Integration
 
 ## Project Overview
 
