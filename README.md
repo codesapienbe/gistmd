@@ -8,6 +8,9 @@
 **Primary Integration:** GitHub Gist API <br/>
 **Target Platforms:** iOS and Android <br/>
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e03083df-4170-4486-b3a3-ef76457c0384" />
+
+
 ## Executive Summary
 
 GistMD is an innovative note-taking application that leverages GitHub Gist as its backend storage solution. Each note is stored as a private gist, enabling users to seamlessly switch between private and public sharing with a simple toggle. The application combines powerful markdown editing capabilities with an integrated AI assistant, providing users with a comprehensive note-taking experience while maintaining the flexibility and reliability of GitHub's infrastructure.
