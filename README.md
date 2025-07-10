@@ -2,15 +2,15 @@
 
 ## Project Overview
 
-**Project Name:** GistNotes
-**Type:** Cross-Platform Mobile Application
-**Framework:** React Native
-**Primary Integration:** GitHub Gist API
-**Target Platforms:** iOS and Android
+**Project Name:** GistMD <br/>
+**Type:** Cross-Platform Mobile Application <br/>
+**Framework:** React Native <br/>
+**Primary Integration:** GitHub Gist API <br/>
+**Target Platforms:** iOS and Android <br/>
 
 ## Executive Summary
 
-GistNotes is an innovative note-taking application that leverages GitHub Gist as its backend storage solution. Each note is stored as a private gist, enabling users to seamlessly switch between private and public sharing with a simple toggle. The application combines powerful markdown editing capabilities with an integrated AI assistant, providing users with a comprehensive note-taking experience while maintaining the flexibility and reliability of GitHub's infrastructure.
+GistMD is an innovative note-taking application that leverages GitHub Gist as its backend storage solution. Each note is stored as a private gist, enabling users to seamlessly switch between private and public sharing with a simple toggle. The application combines powerful markdown editing capabilities with an integrated AI assistant, providing users with a comprehensive note-taking experience while maintaining the flexibility and reliability of GitHub's infrastructure.
 
 ## Core Features
 
